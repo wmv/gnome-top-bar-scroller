@@ -1,0 +1,7 @@
+.scroller-text {
+    font-size: 16px; /* Larger text for visibility */
+    color: #9075d9; /* Light purple text color for contrast */
+    background-color: rgba(50, 50, 50, 0.8); /* Darker background color for subtle contrast */
+    border-radius: 5px; /* Slightly rounded corners */
+    padding: 5px 10px; /* Consistent padding */
+}
